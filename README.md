@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arisneos
-- 👀 I’m interested in Front-End web technologies and iOS Development
-- 🌱 I’m currently getting better at Angular/Java whilst continuing to learn iOS
-- 💞️ I’m looking to collaborate on iOS projects
+- 👀 I’m interested in Game Development, A.I. Engineering technologies and everything Design-Related
+- 🌱 I’m currently working towards an A.I. Engineering Certificate, whilst continuing to hone my Design skills.
+- 💞️ I’m looking to collaborate on Game Dev / A.I. Projects
 - 📫 How to reach me: https://www.linkedin.com/in/arisneos/
 
 <!---
