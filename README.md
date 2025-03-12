@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arisneos
-- 👀 I’m a Lead Product Designer that dabbles in A.I. Engineering technologies and everything Design-Related
+- 👀 I’m a Lead Product Designer, but I also get my hands dirty with code and new tech.
 - 🌱 I’m currently working at WeatherXM.
 - 💞️ I’m looking to collaborate on Product / A.I. Projects
 - 📫 Feel free to reach out to me on https://www.linkedin.com/in/arisneos/
